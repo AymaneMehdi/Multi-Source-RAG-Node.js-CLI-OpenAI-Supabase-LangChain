@@ -1,0 +1,25 @@
+{
+  "name": "multi-source-rag-node.js-cli-openai-supabase-langchain",
+  "version": "1.0.0",
+  "description": "Multi-source RAG CLI with Node.js, LangChain, OpenAI embeddings, and Supabase pgvector.",
+  "homepage": "https://github.com/AymaneMehdi/Multi-Source-RAG-Node.js-CLI-OpenAI-Supabase-LangChain#readme",
+  "bugs": {
+    "url": "https://github.com/AymaneMehdi/Multi-Source-RAG-Node.js-CLI-OpenAI-Supabase-LangChain/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymaneMehdi/Multi-Source-RAG-Node.js-CLI-OpenAI-Supabase-LangChain.git"
+  },
+  "license": "ISC",
+  "author": "Aymane Mehdi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "langchain": "^1.4.0",
+    "openai": "^6.36.0"
+  }
+}
